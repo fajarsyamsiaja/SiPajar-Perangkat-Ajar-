@@ -1,0 +1,38 @@
+{
+  "name": "SiPajar (Perangkat Ajar)",
+  "short_name": "SiPajar",
+  "description": "Aplikasi pembuatan perangkat ajar: CP, TP, ATP, Prota, Promes, Modul Ajar, RPP, dan LKPD.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "id",
+  "dir": "ltr",
+  "background_color": "#0f5c3f",
+  "theme_color": "#0f5c3f",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
